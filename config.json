@@ -1,0 +1,9 @@
+{
+  "screensize": [1600,900],
+  "randompos": [350,565],
+  "nextpos": [1025,825],
+  "shotrange": [300,180,780,225],
+  "scanrange": [300,537,780,795],
+  "y_dist": 15,
+  "botton_dist": 55
+}
