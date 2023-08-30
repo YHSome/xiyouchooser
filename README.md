@@ -5,7 +5,9 @@
 # 功能简介
 该脚本可以帮助你完成 [西柚英语](https://student.xiyouyingyu.com) 中烦人的看词选义和看义选词。
 # 使用方法
-## 第一步：安装python以及相应库
+<video src="example.mp4" position= "absolute" width="100%" height="100%" controls="controls"></video>
+
+## 第一步，安装python以及相应库
 你需要安装的python库有
 ```
 pytesseract
@@ -13,7 +15,7 @@ transformers
 pillow
 pyautogui
 ```
-## 第二部，完成相应配置
+## 第二步，完成相应配置
 打开 ``` ./config.json ``` ，填写相应配置。以下是配置文件的相关释义
 **提示：**你可以使用 ``` ./显示鼠标坐标.py ``` 快速定位光标所处的像素的坐标
 >"screensize": 屏幕分辨率【x,y】
